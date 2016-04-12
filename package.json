@@ -1,6 +1,6 @@
 {
   "name": "copy-listeners",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "copy (or move) event listeners from one event emitter to another",
   "main": "index.js",
   "directories": {
