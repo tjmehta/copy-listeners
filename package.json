@@ -11,7 +11,7 @@
     "toarray": "0.0.1"
   },
   "devDependencies": {
-    "chai": "^3.5.0",
+    "chai": "^4.0.0",
     "istanbul": "^0.4.3",
     "mocha": "^3.2.0",
     "sinon": "^2.0.0"
